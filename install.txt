@@ -1,0 +1,8 @@
+# Tap to click
+/etc/X11/xorg.conf.d/99-synaptics-overrides.conf
+
+# Wallpaper 
+Ubuntu_Gray.jpg
+
+# Volume icon
+volti

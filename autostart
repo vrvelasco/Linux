@@ -1,0 +1,23 @@
+# Start tint2
+tint2 &
+
+# LXPanel
+#lxpanel &
+
+# Set wallpaper
+#nitrogen --restore
+
+# Start conky
+#conky -c ~/.conkyrc &
+
+# Start compton
+compton &
+
+# XFCE Desktop
+#xfdesktop &
+
+# PCManFM - Desktop
+pcmanfm --desktop &
+
+# Volume icon
+volti &
